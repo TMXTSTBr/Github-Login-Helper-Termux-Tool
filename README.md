@@ -39,8 +39,27 @@ All in a **user-friendly and minimal interface**, in the style of Installer Tool
 
 ## 🚀 Instalação / Installation
 
-1. Clone o repositório:
+1' Baixe as Dependências:
+
+```bash
+Pkg install git
+Pkg install wget
+pkg install openssh -y
+pkg install figlet -y
+```
+2' Clone o Repositório:
 
 ```bash
 git clone https://github.com/YTDroidX/github-login-helper.git
 cd github-login-helper
+```
+
+3' Execute:
+
+```bash
+bash Github_Login_HelperV1.sh
+```
+
+## ScreenShot
+
+<img width="1440" height="3200" alt="Screenshot_20260221-190807" src="https://github.com/user-attachments/assets/76c35520-e21d-48df-849c-a1e1e29d09df" />
